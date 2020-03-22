@@ -1,7 +1,7 @@
 ---
 layout: default
 title: publications
-permalink: "/publications"
+permalink: "publications.md"
 ---
 
 # Re!

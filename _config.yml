@@ -3,5 +3,6 @@ description: David Lu
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
+baseurl: "/rpblog"
 github:
-  zip_url: /publications
+  zip_url: publications.md

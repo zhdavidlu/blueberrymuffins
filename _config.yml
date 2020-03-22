@@ -5,4 +5,4 @@ google_analytics:
 theme: jekyll-theme-cayman
 baseurl: "/rpblog"
 github:
-  zip_url: publications.md
+  zip_url: /rpblog/publications

@@ -4,4 +4,6 @@ title: publications
 permalink: "/publications"
 ---
 
-# Re!
+### Test document(s)
+
+[David's EE](David's-EE.pdf)

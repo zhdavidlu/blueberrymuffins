@@ -4,4 +4,4 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
 github:
-  zip_url: https://zhdavidlu.github.io/cssi/
+  zip_url: /publications

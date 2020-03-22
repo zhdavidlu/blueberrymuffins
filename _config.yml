@@ -3,6 +3,6 @@ description: David Lu
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
-baseurl: "/rpblog"
+baseurl: "/blueberrymuffin"
 github:
-  zip_url: /rpblog/publications
+  zip_url: /blueberrymuffin/publications

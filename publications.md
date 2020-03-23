@@ -6,4 +6,6 @@ permalink: "/publications"
 
 ### Test document(s)
 
-[David's EE](David's-EE.pdf)
+[David's EE](pdf-documents/David's-EE.pdf)
+
+[Static and Stagnation States](pdf-documents/Static-and-Stagnation-States.pdf)

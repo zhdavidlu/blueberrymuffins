@@ -1,11 +1,14 @@
 ---
 layout: default
-title: publications
+title: Stuff!
+description: I wrote some stuffs!
 permalink: "/publications"
 ---
 
-### Test document(s)
+## Gas Dynamics
+- #### Control Volume Analysis
 
-[David's EE](pdf-documents/David's-EE.pdf)
+  -
 
-[Static and Stagnation States](pdf-documents/Static-and-Stagnation-States.pdf)
+## Rocket Propulsion
+- nothin' here yet!
